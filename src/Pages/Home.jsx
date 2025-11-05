@@ -78,7 +78,7 @@ const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
 const WORDS = ["AI Enthusiast", "JavaScript Artisan"];
-const TECH_STACK = ["React", "Tailwind", "Hapi.js", "MongoDB"];
+const TECH_STACK = ["React", "Tailwind", "Express", "MongoDB"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/septianhadinugroho" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/septian-hadi-nugroho/" },
