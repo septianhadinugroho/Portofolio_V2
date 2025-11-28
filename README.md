@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Septian Hadi Nugroho**. On this occasion, I'd lik
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://septianhadinugroho-portfolio.vercel.app/](https://septianhadinugroho-portfolio.vercel.app/)
+**Website Link:** [https://www.sephanoe.my.id/](https://www.sephanoe.my.id/)
 
 ## 🛠️ Tech Stack
 
@@ -240,7 +240,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Septian Hadi Nugroho**
 
-  - Website: [https://septianhadinugroho-portfolio.vercel.app/](https://septianhadinugroho-portfolio.vercel.app/)
+  - Website: [https://www.sephanoe.my.id/](https://www.sephanoe.my.id/)
   - GitHub: [septianhadinugroho](https://github.com/septianhadinugroho)
 
 -----
