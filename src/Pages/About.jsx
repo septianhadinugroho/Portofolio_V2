@@ -214,7 +214,9 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             An active student in the Computer Science department with a strong commitment to personal development in the field of technology. My internship and academic experiences have enhanced my soft skills, such as effective time management, teamwork, and maintaining composure under pressure. Additionally, my involvement in extracurricular organizations has significantly contributed to developing my leadership skills. I am an individual with strong interpersonal skills. I am committed to continuous learning and growth to become a valuable asset in both academic and professional environments.
+              I am an <strong>Informatics (Computer Science) student at UIN Sunan Gunung Djati Bandung</strong> and a <strong>BANPIN 2025 Scholarship Awardee</strong> specializing in Fullstack Development.
+              <br /><br />
+              Beyond building scalable web apps, I am an <strong>AI Enthusiast</strong> actively exploring the integration of <strong>Machine Learning</strong> into web ecosystems. My experience as a Core Member of GDSC and intern at Trans Retail Indonesia has sharpened my technical and leadership skills, driving me to build impactful digital solutions.
             </p>
 
                {/* Quote Section */}
